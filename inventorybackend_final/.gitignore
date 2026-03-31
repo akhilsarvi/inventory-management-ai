@@ -1,0 +1,18 @@
+# Target directory
+target/
+*.jar
+
+# Eclipse files
+.classpath
+.project
+.settings/
+.factorypath
+.metadata/
+
+# Local databases
+*.db
+inventorydata.mv.db
+inventorydata.trace.db
+
+# macOS
+.DS_Store
